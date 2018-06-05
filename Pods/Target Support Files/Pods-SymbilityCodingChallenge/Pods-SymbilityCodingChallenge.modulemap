@@ -1,0 +1,6 @@
+framework module Pods_SymbilityCodingChallenge {
+  umbrella header "Pods-SymbilityCodingChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
